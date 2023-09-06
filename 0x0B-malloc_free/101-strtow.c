@@ -1,4 +1,5 @@
-#include "main.h"
+#include <stdio.h>
+#include "holberton.h"
 #include <stdlib.h>
 
 void util(char **, char *);
